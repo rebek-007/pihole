@@ -1,1 +1,6 @@
-
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: Adblockinglist-test-01
+! Last modified:03/02/2024
+!
+example.com###example
