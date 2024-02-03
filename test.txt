@@ -1,7 +1,5 @@
-[Adblock Plus 2.0]
-! Version: 1.0
-! Title: Adblockinglist-test-01
-! Last modified:03/02/2024
-!
-example.com###example
-bard.google.com###bard
+# Host file to block ads, tracking and more! Updated daily
+================================================================
+0.0.0.0 bard.google.com
+0.0.0.0 example.com
+0.0.0.0 guthib.com
