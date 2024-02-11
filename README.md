@@ -102,5 +102,5 @@ Open a web browser and go to ```http://IP_ADDRESS/admin```, where IP_ADDRESS is 
 
 ## Screenshots
 
-![Pi-Hole Admin Web Portal]([https://github.dev/rebek-007/pihole/blob/master/admin.png])
+![Pi-Hole Admin Web Portal]([https://github.dev/rebek-007/pihole/blob/master/webportal.png])
 
